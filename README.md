@@ -2,7 +2,6 @@
 
 This Python project implements a simple Bank Management System. It allows users to create a bank account, log in, deposit money, withdraw money, view account balance, and exit the program.
 
-### Video Demo: https://youtu.be/sTUMd0c5LrI
 
 ## Files
 
